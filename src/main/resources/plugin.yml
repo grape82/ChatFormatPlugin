@@ -1,0 +1,7 @@
+name: ChatFormatPlugin
+version: 1.0
+main: io.github.grape82.chatformat.Chatformat
+api-version: '${paperVersion}'
+libraries:
+  - org.jetbrains.kotlin:kotlin-stdlib:${kotlinVersion}
+  - org.jetbrains.kotlin:kotlin-reflect:${kotlinVersion}
